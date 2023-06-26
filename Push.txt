@@ -1,0 +1,17 @@
+echo "# Code_College_Projects" >> README.md
+git init
+git add README.md
+git commit -m "UML 1"
+git branch -M main
+git remote add origin https://github.com/JustinOccasionallyCodes/Code_College_Projects.git
+git push -u origin main
+
+
+git remote add origin https://github.com/JustinOccasionallyCodes/Code_College_Projects.git
+git branch -M main
+git push -u origin main
+
+//ACP
+git add .
+git commit -m "UML_4"
+git push -u origin main
